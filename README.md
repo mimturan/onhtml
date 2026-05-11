@@ -73,5 +73,3 @@ We ship requested tools weekly.
 ## ⭐ Support
 
 If onHTML saves you time, **star this repo** — it genuinely helps more devs discover it.
-
-Built with ❤️ by [@mimturan](https://github.com/mimturan).
